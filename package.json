@@ -1,0 +1,19 @@
+{
+  "name": "parinata-music-srvice-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^25.1.1",
+    "node": "^20.2.0",
+    "path": "^0.12.7",
+    "require": "^2.4.20",
+    "url": "^0.11.1"
+  }
+}
